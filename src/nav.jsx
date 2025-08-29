@@ -2,7 +2,7 @@ import Logo from "./media/two.png";
 const Navbar= () => {
     return (
       // nav start
-       <nav className="nav-bar   justify-evenly bg-black flex text-white p-1 items-center font-bold ">
+       <nav className="nav-bar    justify-evenly bg-black flex text-white p-1 items-center font-bold   ">
         <div>
           {/* left */}
           <img src={Logo} className="i-size" alt="img" />

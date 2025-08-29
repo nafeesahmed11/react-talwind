@@ -19,9 +19,9 @@ const Card =()=>{
                     
                 </div>
                <div > 
-                <button type="button" className="my-2 bg-pink-200 rounded-2xl text-sm h-10 w-64">Try 3 months for BDT 0</button>
+                <button type="button" className="duration-300 ease-in-out  hover:scale-106  my-2 bg-pink-200 rounded-2xl text-sm h-10 w-64 hover:bg-pink-300">Try 3 months for BDT 0</button>
                 
-                <button type="button" className="border-2 rounded-2xl text-sm h-10 w-64 border-slate-500 text-white">Try one time payment</button>
+                <button type="button" className="duration-300 ease-in-out  hover:scale-106  border-2 rounded-2xl text-sm h-10 w-64 border-slate-500 text-white">Try one time payment</button>
                 </div>
                 <p className="my-2 text-gray-300 text-xs">BDT 0 for 3 months, then BDT 219 per month after. Offer only available if you haven’t tried Premium before. Terms apply.Offer ends 22 September 2025.
                 </p>
@@ -46,11 +46,11 @@ const Card =()=>{
                     
                 </div>
                <div > 
-                <button type="button" class="my-2 bg-purple-300  rounded-2xl text-sm h-10 w-70">Try 3 mounth for BDT 0</button>
+                <button type="button" class="my-2 bg-purple-300 hover:bg-purple-400 rounded-2xl text-sm h-10 w-70   hover:relative  duration-300 ease-in-out  hover:scale-106 iteam-center justify-center ">Try 3 mounth for BDT 0</button>
                 
-                <button type="button" class="border-3   rounded-2xl text-sm h-10 w-70 border-slate-500 text-white">Try one time payment</button>
+                <button type="button" class="duration-300 ease-in-out  hover:scale-106  border-3   rounded-2xl text-sm h-10 w-70 border-slate-500 text-white relative">Try one time payment</button>
                 </div>
-                <p className="my-2 text-gray-300 text-xs">BDT 0 for 3 months, then BDT 219 per month after. Offer only available if you haven’t tried Premium before. Terms apply.Offer ends 22 September 2025.
+                <p className="my-2 text-gray-300 text-xs relative">BDT 0 for 3 months, then BDT 219 per month after. Offer only available if you haven’t tried Premium before. Terms apply.Offer ends 22 September 2025.
                 </p>
             </div>
         </div>
@@ -72,9 +72,9 @@ const Card =()=>{
                     
                 </div>
                <div > 
-                <button type="button" class="my-2 bg-amber-400  rounded-2xl text-sm h-10 w-70">Try 3 mounth for BDT 0</button>
+                <button type="button" className="duration-300 ease-in-out  hover:scale-106  my-2 bg-amber-400 hover:bg-amber-500  rounded-2xl text-sm h-10 w-70 corser:">Try 3 mounth for BDT 0</button>
                 
-                <button type="button" class="border-3   rounded-2xl text-sm h-10 w-70 border-slate-500 text-white">Try one time payment</button>
+                <button type="button" class="duration-300 ease-in-out  hover:scale-106   border-3   rounded-2xl text-sm h-10 w-70 border-slate-500 text-white">Try one time payment</button>
                 </div>
                 <p className="my-2 text-gray-300 text-xs">BDT 0 for 3 months, then BDT 219 per month after. Offer only available if you haven’t tried Premium before. Terms apply.Offer ends 22 September 2025.
                 </p>
