@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "predeploy":"npm run build",
     "deploy":"gh-pages -d dist",
-    "home":"https://github.com/nafeesahmed11/react-talwind/"
+    "home":"https://github.com/nafeesahmed11/react-talwind.git"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.12",
